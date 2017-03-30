@@ -1,3 +1,5 @@
+This repository contains the source code of TinyNuke which is a zeus-style trojan written by me.
+
 Trusteer Rapport News:
 ======================
 
@@ -7,7 +9,8 @@ Here is a little video to counter that statement: https://www.youtube.com/watch?
 I had offered to help trusteer try to fix this problem weeks ago but they didn't seem to want any help
 as I was stuck with tech support more centered for customers of their software then technical stuff.
 
-This repository contains the source code of TinyNuke which is a zeus-style trojan written by me.
+You can see how easy it is to beat trusteer which makes 147m USD a year here: 
+https://github.com/aainz/TinyNuke/blob/master/Utils.cpp#L524
 
 Disclaimor:
 ===========
