@@ -1,3 +1,12 @@
+Trusteer Rapport News:
+======================
+
+In a tabloid-like article (https://securityintelligence.com/the-nukebot-trojan-a-bruised-ego-and-a-surprising-source-code-leak/) 
+IBM claims I never bypassed Trusteer without sources or proof while spewing lies about me. 
+Here is a little video to counter that statement: https://www.youtube.com/watch?v=co7T9CHxYZw
+I had offered to help trusteer try to fix this problem weeks ago but they didn't seem to want any help
+as I was stuck with tech support more centered for customers of their software then technical stuff.
+
 This repository contains the source code of TinyNuke which is a zeus-style trojan written by me.
 
 Disclaimor:
